@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\bin\Debug\net6.0\PrototypeMonsters.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\bin\Debug\net6.0\PrototypeMonsters.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\bin\Debug\net6.0\PrototypeMonsters.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\bin\Debug\net6.0\PrototypeMonsters.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\bin\Debug\net6.0\PrototypeMonsters.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\refint\PrototypeMonsters.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\PrototypeMonsters.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PrototypeMonsters\obj\Debug\net6.0\ref\PrototypeMonsters.dll
