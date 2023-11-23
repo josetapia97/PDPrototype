@@ -8,6 +8,7 @@ namespace PropotypeFormas
 {
     public interface ICloneable
     {
+        //object es la clase base de .net, es una referencia a un objeto cualquiera.
         object Clone();
     }
 }

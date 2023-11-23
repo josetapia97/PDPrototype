@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\bin\Debug\net6.0\PropotypeFormas.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\bin\Debug\net6.0\PropotypeFormas.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\bin\Debug\net6.0\PropotypeFormas.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\bin\Debug\net6.0\PropotypeFormas.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\bin\Debug\net6.0\PropotypeFormas.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\refint\PropotypeFormas.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\PropotypeFormas.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Propotype\PropotypeFormas\obj\Debug\net6.0\ref\PropotypeFormas.dll
