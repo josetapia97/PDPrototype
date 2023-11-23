@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\Propotype\\PropotypeFormas\\PropotypeFormas.csproj",
-      "projectName": "PropotypeFormas",
-      "projectPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\Propotype\\PropotypeFormas\\PropotypeFormas.csproj",
+      "projectUniqueName": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\Propotype\\PropotypeFormas\\PrototypeFormas.csproj",
+      "projectName": "PrototypeFormas",
+      "projectPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\Propotype\\PropotypeFormas\\PrototypeFormas.csproj",
       "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\Propotype\\PropotypeFormas\\obj\\",
       "projectStyle": "PackageReference",
